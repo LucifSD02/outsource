@@ -1,0 +1,2 @@
+rootProject.name = "Outsourcing proj"
+include ':app'
